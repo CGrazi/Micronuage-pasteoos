@@ -1,4 +1,4 @@
-# Pasteoos
+# Pasteoos - Pastelaria
 
 Site criado no Micronuage.
 
